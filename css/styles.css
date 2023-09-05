@@ -1,0 +1,13 @@
+:root {
+    --font-body: 'Heebo', sans-serif;
+    --color-white:#f5f4f9;
+    --color-text-gray:#55565b;
+    --color-black:#000000;
+}
+body{
+    font-family: var(--font-body);
+}
+.bg-gray{background-color:var(--color-white);}
+.height-50 { min-height: 50vh;}
+.tittle-collection{color: var(--color-text-gray);}
+.btn{background-color: var(--color-black);}
